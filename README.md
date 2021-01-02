@@ -1,6 +1,6 @@
 # Mofid-Securities-Contest
 
-> Here is my final codes for Mofid Securities (Iran's largest full-service stock brokerage firm) contest, 1 Jan 2021.
+> Here are my final codes for Mofid Securities (Iran's largest full-service stock brokerage firm) contest, 1 Jan 2021.
 
 ---
 
@@ -15,9 +15,9 @@
 
 ## Description
 
-During this ten hour contest, I was supposed to tackle six questions which more mostly related to NLP. The questions were designed from easy to hard level and covered a variety of <br/>
+During this ten hour contest, I was supposed to tackle six questions which more mostly related to NLP. The questions were designed from easy to hard level and covered a variety of
 subjects such as basic Python programming, NLP, Emotion Recognition, and Data Science in general. At the end of the competition, I placed 38 (top 2%) among 1958 participants. <br/>
-You can look further into questions by clicking on the following link: https://quera.ir/contest/assignments/24489/problems	<br/>
+You can look further into questions by clicking on the link below: https://quera.ir/contest/assignments/24489/problems	<br/>
 
 #### Techniques
 
