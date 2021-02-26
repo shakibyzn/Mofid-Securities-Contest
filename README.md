@@ -16,7 +16,7 @@
 ## Description
 
 During this ten-hour contest, I was supposed to tackle six questions that were mostly related to NLP. The questions were designed from easy to hard level and covered various
-subjects such as basic Python programming, NLP, Emotion Recognition, and Data Science in general. At the end of the competition, I placed 34 (top 2%) among 1958 participants. <br/>
+subjects such as basic Python programming, NLP, Emotion Recognition, and Data Science in general. At the end of the competition, I placed 34 (top 2%) among 1960 participants. <br/>
 You can look further into questions by clicking on the link below: https://quera.ir/contest/assignments/24489/problems	<br/> 
 It is worth mentioning that the dataset for problem6 (ShEMO) can be find here https://github.com/mansourehk/ShEMO <br/>
 
